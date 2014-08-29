@@ -1,0 +1,10 @@
+user:
+    type: rest
+    resource: "RestUserBundle:User"
+    name_prefix: v1_
+group:
+    type: rest
+    resource: "RestUserBundle:Group"
+    name_prefix: v1_
+
+    
